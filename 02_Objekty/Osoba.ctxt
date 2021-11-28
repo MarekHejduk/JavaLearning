@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Osoba
+comment1.params=jmeno
+comment1.target=Osoba(java.lang.String)
+comment1.text=\r\n\ this\ je\ odkaz\ na\ danou\ glob\u00E1ln\u00ED\ prom\u011Bnnou\r\n\ pou\u017E\u00EDv\u00E1\ se\ hlavn\u011B\ kdy\u017E\ lok\u00E1ln\u00ED\ a\ glob\u00E1ln\u00ED\ prom\u011Bnn\u00E1\ maj\u00ED\ stejn\u00FD\ n\u00E1zev\r\n\ to\ znamen\u00E1\ zp\u016Fsob\ jak\ lok\u00E1ln\u00ED\ prom\u011Bnnou\ z\ jedn\u00E9\ metody\ moci\ pou\u017E\u00EDt\ v\ jin\u00E9\ metod\u011B\ dan\u00E9\ t\u0159\u00EDdy\r\n
+comment2.params=
+comment2.target=void\ pozdrav()
+numComments=3

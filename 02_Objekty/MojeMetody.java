@@ -6,6 +6,8 @@ public class MojeMetody{
      * 1) konstruktor = speciální pøípad metody, díky kterému vytvoøíme NOVÝ objekt
      * 2) konstruktor nemá návratový typ
      * 3) konstruktor musí mít stejný název jako tøída
+     * 4) Implicitní konstruktor = každá tøída musí mít nìjaký konstruktor.
+     *      implicitní konstrktor dosadí Java VŽDY, když není žádný konstrutkro v kódu
      */
     public MojeMetody(){
         Obdelnik obdelnikObjekt = new Obdelnik();
