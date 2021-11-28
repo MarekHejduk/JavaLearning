@@ -23,6 +23,7 @@ dependency7.type=UsesDependency
 dependency8.from=Obdelnik
 dependency8.to=Platno
 dependency8.type=UsesDependency
+<<<<<<< HEAD
 editor.fx.0.height=836
 editor.fx.0.width=854
 editor.fx.0.x=2394
@@ -36,6 +37,21 @@ package.editor.width=667
 package.editor.x=1766
 package.editor.y=0
 package.frame.height=588
+=======
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
+objectbench.height=93
+objectbench.width=761
+package.divider.horizontal=0.6
+package.divider.vertical=0.8007968127490039
+package.editor.height=395
+package.editor.width=673
+package.editor.x=296
+package.editor.y=63
+package.frame.height=600
+>>>>>>> 020612f977504a31cc5e397b7c3c0938040b6329
 package.frame.width=800
 package.numDependencies=8
 package.numTargets=6
@@ -44,7 +60,11 @@ package.showUses=true
 project.charset=windows-1250
 readme.height=60
 readme.name=@README
+<<<<<<< HEAD
 readme.width=49
+=======
+readme.width=48
+>>>>>>> 020612f977504a31cc5e397b7c3c0938040b6329
 readme.x=10
 readme.y=10
 target1.height=50
@@ -87,5 +107,5 @@ target6.name=Obdelnik
 target6.showInterface=false
 target6.type=ClassTarget
 target6.width=80
-target6.x=350
+target6.x=360
 target6.y=80

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Marek
+comment1.params=
+comment1.target=void\ getPocetDeti()
+comment2.params=pocet
+comment2.target=void\ setPocetDeti(int)
+comment3.params=
+comment3.target=void\ vychovejDite()
+numComments=4

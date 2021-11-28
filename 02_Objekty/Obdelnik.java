@@ -48,7 +48,7 @@ public class Obdelnik
     private int    sirka;   //sirka v bodech
     private int    vyska;   //Vyska v bodech
     private Barva  barva;   //Barva instance
-
+    private String marek;   
 
 
 //== PRISTUPOVE METODY VLASTNOSTI TRIDY ========================================
