@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Rostlina
+comment1.params=
+comment1.target=int\ getCislo()
+comment2.params=
+comment2.target=java.lang.String\ getTypRostliny()
+comment3.params=
+comment3.target=int\ getVyskaRostliny()
+numComments=4

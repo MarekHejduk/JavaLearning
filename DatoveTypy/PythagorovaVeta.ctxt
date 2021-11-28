@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PythagorovaVeta
+comment0.text=\r\n\ c\ *\ c\ \=\ a\ *\ a\ +\ b\ *\ b\r\n
+comment1.params=parametrA\ parametrB
+comment1.target=double\ getC(int,\ int)
+numComments=2

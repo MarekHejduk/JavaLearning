@@ -13,6 +13,14 @@ public class Dite
     }
     
     public void umyjMiAuto() {
-        System.out.println("táto, seru na tebe");
+        System.out.println("Leopolde, umyj mi auto!");
+        System.out.println("Táto, seru na tebe!");
+    }
+    
+    public void umyjMiAuto2(){
+        Marek marek = new Marek();
+        marek.vychovejDite();
+        System.out.println("Leopolde, umyj mi auto!");
+        System.out.println("Táto, už jdu na to!");
     }
 }

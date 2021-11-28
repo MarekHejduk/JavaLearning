@@ -15,12 +15,11 @@ public class Kalkulacka
     }
     
     public double pythagorovaVeta(int a, int b) {
-        double c = 0;
-        c = a * a + b * b;
-        c = Math.sqrt(c);
-        return c;
-        
-        //PythagorovaVeta pythagorka = new PythagorovaVeta();
-        //return pythagorka.getC(a, b);
+    //    double c = 0;
+    //    c = a * a + b * b;
+    //    c = Math.sqrt(c);
+    //    return c;
+        PythagorovaVeta pythagorka = new PythagorovaVeta();
+        return pythagorka.getC(a, b);
     }
 }
