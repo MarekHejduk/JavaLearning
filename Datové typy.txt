@@ -1,0 +1,21 @@
+1) Datový typ nám určuje, co proměnná (hnidopich jeden.... parametr nebo atribut) bude obsahovat (číslo, text, logickou podmínku, instanci)
+2) Existují dva druhy datových typů:
+primitivní
+Objektový
+
+Primitivních datových typů je 8
+-byte
+-short
+-int
+-long
+
+-float
+-double
+
+-boolean
+
+-char
+
+PROMĚNNÉ PRIMITIVNÍCH DATOVÝCH TYPŮ NEMAJÍ METODY
+
+Objektových datových typů je nekonečno
