@@ -13,4 +13,10 @@ public class Osoba {
     public void pozdrav(){
         System.out.println("Ahoj, jmenuji se " + jmeno);
     }
+    
+    public void hokusPokus(){
+        Platno.getPlatno().setBarvaPopredi(Barva.ZLATA);
+        Platno.getPlatno().zapln(new java.awt.geom.Rectangle2D.Double
+                         (50, 50, 20, 10) );
+    }
 }

@@ -47,8 +47,7 @@ public class Obdelnik
     private int    yPos;    //Bodova y-ova souradnice pocatku
     private int    sirka;   //sirka v bodech
     private int    vyska;   //Vyska v bodech
-    private Barva  barva;   //Barva instance
-    private String marek;   
+    private Barva  barva;   //Barva instance  
 
 
 //== PRISTUPOVE METODY VLASTNOSTI TRIDY ========================================
@@ -93,6 +92,8 @@ public class Obdelnik
      * a bude mit implicitni barvu, 
      * vysku 20 bodu a sirku 40 bodu.
      */
+    
+          
     public Obdelnik()
     {
         this( 0, 0, 2*krok, krok );
