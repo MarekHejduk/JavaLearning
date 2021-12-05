@@ -2,8 +2,8 @@
 comment0.target=PoPaduMeteoritu
 comment1.params=
 comment1.target=PoPaduMeteoritu()
-comment2.params=
-comment2.target=void\ postavDum()
+comment2.params=sirka\ vyska
+comment2.target=void\ postavDum(int,\ int)
 comment3.params=novaBarva
 comment3.target=void\ prebarviStrechu(Barva)
 comment4.params=

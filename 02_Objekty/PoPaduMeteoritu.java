@@ -9,14 +9,14 @@ public class PoPaduMeteoritu{
     private Strom strom;
     
     public PoPaduMeteoritu(){
-        postavDum();
+        postavDum(45, 90);
         zhasni();
         //strom = new Strom();
         //strom.setPozice(200, 200);
     }
     
-    public void postavDum() {
-        levaStrecha = new Trojuhelnik(30, 75, 75, 35, Barva.CERVENA);
+    public void postavDum(int sirka, int vyska) {
+        levaStrecha = new Trojuhelnik(30, 75, 75, 35 * vyska / 90, Barva.CERVENA);
         pravaStrecha = new Trojuhelnik(103, 75, 75, 35, Barva.CERVENA);
         komin = new Obdelnik(145, 70, 20, 40, Barva.CERVENA);
         meteorit = new Elipsa(75, 65, 60, 60, Barva.SEDA);
