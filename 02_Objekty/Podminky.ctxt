@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Podminky
+comment1.params=cislo
+comment1.target=void\ podminky(int)
+comment2.params=jmeno
+comment2.target=void\ podminky(java.lang.String)
+comment3.params=strom
+comment3.target=void\ podminky(Strom)
+comment4.params=
+comment4.target=void\ test()
+numComments=5
