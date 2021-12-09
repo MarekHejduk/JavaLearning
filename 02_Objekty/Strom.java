@@ -142,5 +142,6 @@ public class Strom{
         koruna.smaz();
     }
     
+
 }
 
