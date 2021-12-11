@@ -36,10 +36,10 @@ public class Platno
 //== KONSTANTNI ATRIBUTY TRIDY =================================================
 
     /** Pocatecni sirka platna v bodech. */
-    public static final int SIRKA_0 = 800;
+    public static final int SIRKA_0 = 300;
 
     /** Pocatecni vyska platna v bodech. */
-    public static final int VYSKA_0 = 800;
+    public static final int VYSKA_0 = 300;
 
     /** Pocatecni barva pozadi platna. */
     public static final Barva POZADI_0 = Barva.KREMOVA;
