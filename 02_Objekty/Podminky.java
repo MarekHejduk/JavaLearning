@@ -26,6 +26,42 @@ public class Podminky{
             new Strom();
         }
     }
+    /**
+     * Øádky 34 až 36 dìlají zcela to samé, co øádky 38 až 41. Liší se to 
+     * v øešení "null" hodnoty.
+     */
+    public void jinyZapisPodminky(Strom strom){
+        if(strom != null){
+            System.out.println("I'm from strom.");
+        }
+        
+        if (strom == null){
+            return;
+        }
+        System.out.println("I'm from strom.");
+        
+    }
+    /**
+     * Pokud není zadán "break", vykoná case a od nìj až do dalšího breaku 
+     * bude casy vykonávat (viz 53 øádka)
+     * "switch" funguje jen pro int a String
+     */
+    public void metodaSwitch(String x){
+        switch(x){
+            case "0": 
+                System.out.println("Je to nula.");
+     
+            case "1":
+                System.out.println("Jsem jednièka.");
+                break;
+            case "22":
+                System.out.println("Nesmysl.");
+                break; //u posledního by být nemusel, ale:
+            default:
+                System.out.println(x + " volbu neznám, nevím, co mám dìlat.");
+        }
+        
+    }
     
     public void test(){
         Strom strom = new Strom();

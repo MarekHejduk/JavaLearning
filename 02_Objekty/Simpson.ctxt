@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Simpson
+comment1.params=jmeno\ otec\ matka
+comment1.target=Simpson(java.lang.String,\ Simpson,\ Simpson)
+comment2.params=
+comment2.target=java.lang.String\ getJmeno()
+comment3.params=
+comment3.target=Simpson\ getOtec()
+comment4.params=
+comment4.target=Simpson\ getMatka()
+numComments=5
