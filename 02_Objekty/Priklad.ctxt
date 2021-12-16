@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Priklad
+comment1.params=x\ a\ b
+comment1.target=void\ prikladSwitch1(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ \ \ \ \ \ \ \ int\ a\ \=\ 5;\r\n\ \ \ \ \ \ \ \ int\ b\ \=\ 3;\r\n\ \ \ \ \ \ \ \ String\ x\ \=\ "+";\ \ \ \ \r\n
+numComments=2
