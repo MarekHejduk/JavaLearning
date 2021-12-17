@@ -8,4 +8,6 @@ comment3.params=
 comment3.target=Simpson\ getOtec()
 comment4.params=
 comment4.target=Simpson\ getMatka()
-numComments=5
+comment5.params=jmeno
+comment5.target=Simpson\ setJmeno(Simpson)
+numComments=6

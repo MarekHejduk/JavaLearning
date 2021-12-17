@@ -21,6 +21,10 @@ public class Simpson{
     public Simpson getMatka(){
         return matka;
     }
+    
+    public Simpson setJmeno(Simpson jmeno){
+        return jmeno;
+    }
 
 
 

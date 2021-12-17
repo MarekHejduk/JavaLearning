@@ -61,18 +61,19 @@ public class Cykly{
      * for pracuje s pøesnì stanoveným poètem prvkù
      */
     public void metodaWhile(){
-    /*  int i = 0;
+      int i = 0;
         while(i < 100){
-        jinak napsaný for cyklus
+    //    jinak napsaný for cyklus
         i++;
         System.out.println("Hodnota i = " + i);
         new Obdelnik();      
         }
-    */
+    /*
         long time = System.currentTimeMillis();
         while(System.currentTimeMillis() <= time + 20000){
             System.out.println(System.currentTimeMillis());
         }
+    */    
     }
     
     /**

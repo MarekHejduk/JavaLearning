@@ -15,12 +15,26 @@ public class Simpsonovi{
         System.out.println("Rodokmen pro osobu " + bart.getJmeno());
         vypisRodinu(bart);
     }
+          
+    public Simpsonovi(Simpson simpson){
+        vypisRodinu(simpson);
+    }
     
     //rekurzivní metoda
     public void vypisRodinu(Simpson simpson){
-        System.out.println(simpson.getJmeno());
         if(simpson.getOtec() != null){
-            vypisRodinu(simpson.getOtec());
-        }
+            System.out.println(simpson.getOtec().getJmeno());  
+            vypisRodinu(simpson.getOtec());            
     }
+        if (simpson.getMatka() != null){
+            System.out.println(simpson.getMatka().getJmeno());  
+            vypisRodinu(simpson.getMatka());
+    }
+    
+}
+
+    public Simpson getHomer(){        
+        return homer;
+    }
+    
 }
