@@ -80,6 +80,8 @@ public class Platno
         private int sirka;
         private int vyska;
 
+        private static int pocet = 0;
+        private int poradi = ++pocet;
 
 
 //== PRISTUPOVE METODY VLASTNOSTI TRIDY ========================================
@@ -114,7 +116,7 @@ public class Platno
      */
     public static Platno getPlatno()
     {
-        if(jedinacek == null)
+        if(pocet < 2)
         {
             jedinacek = new Platno();
         }

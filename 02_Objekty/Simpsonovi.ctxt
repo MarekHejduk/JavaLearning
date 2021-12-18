@@ -1,9 +1,9 @@
 #BlueJ class context
 comment0.target=Simpsonovi
-comment1.params=
-comment1.target=Simpsonovi()
-comment2.params=simpson
-comment2.target=Simpsonovi(Simpson)
+comment1.params=simpson
+comment1.target=Simpsonovi(Simpson)
+comment2.params=
+comment2.target=Simpsonovi()
 comment3.params=simpson
 comment3.target=void\ vypisRodinu(Simpson)
 comment4.params=

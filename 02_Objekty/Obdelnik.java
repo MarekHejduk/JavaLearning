@@ -35,6 +35,8 @@ public class Obdelnik
 
     /** Poradi vytvoreni dane instance v ramci tridy. */
     private final int poradi = ++pocet;
+    
+    
 
     /** Nazev sestavajici z nazvu tridy a poradi instance */
     private String nazev = "Obdelnik_" + poradi;

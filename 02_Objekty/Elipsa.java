@@ -34,7 +34,7 @@ public class Elipsa
 //== KONSTANTNI ATRIBUTY INSTANCI ==============================================
 
     /** Poradi vytvoreni dane instance v ramci tridy. */
-    private final int poradi = ++pocet;
+    private final int poradi = pocet++;
 
     /** Nazev sestavajici z nazvu tridy a poradi instance */
     private String nazev = "Elipsa_" + poradi;

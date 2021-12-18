@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Jedinacek
+comment1.params=
+comment1.target=Jedinacek\ getJedinacek()
+comment2.params=
+comment2.target=Jedinacek()
+comment3.params=jmeno
+comment3.target=void\ setJmeno(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getJmeno()
+numComments=5

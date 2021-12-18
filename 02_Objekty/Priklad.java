@@ -5,6 +5,9 @@ public class Priklad{
         int b = 3;
         String x = "+";    
 */
+
+// NECHAT ZACHYTIT NULU!!!
+
     
     
      public static void prikladSwitch1(String x, int a, int b){

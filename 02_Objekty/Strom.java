@@ -36,6 +36,8 @@ public class Strom{
     
     public Strom(int x, int y){
         this(x, y, 50, 90);
+        System.out.println(Statika.getCislo2());
+        
     }
     
     public Strom(int x, int y, int sirka, int vyska){

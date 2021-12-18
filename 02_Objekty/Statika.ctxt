@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Statika
+comment1.params=
+comment1.target=Statika()
+comment2.params=
+comment2.target=int\ getCislo()
+comment3.params=
+comment3.target=int\ getCislo2()
+comment4.params=
+comment4.target=void\ test2()
+comment5.params=
+comment5.target=java.lang.String\ getPoradi()
+numComments=6
